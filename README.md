@@ -39,3 +39,4 @@
 ```bash
 git clone [https://github.com/your-username/SvitloSync.git](https://github.com/your-username/SvitloSync.git)
 cd SvitloSync
+pip install pystray pillow telethon
