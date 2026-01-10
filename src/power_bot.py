@@ -297,7 +297,6 @@ def run_telegram_thread(current_tray_icon):
     finally:
         loop.close()
 
-1
 # --- GUI ---
 class ConsoleWindow:
     def __init__(self, master):
