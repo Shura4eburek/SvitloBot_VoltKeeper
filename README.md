@@ -35,6 +35,6 @@
 ### 1. Завантаження
 Клонуйте репозиторій або завантажте архів з кодом:
 ```bash
-git clone [https://github.com/your-username/SvitloSync.git](https://github.com/your-username/SvitloSync.git)
+git clone [https://github.com/Shura4eburek/SvitloSync.git](https://github.com/Shura4eburek/SvitloSync.git)
 cd SvitloSync
 pip install pystray pillow telethon
